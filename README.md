@@ -110,6 +110,14 @@ AWGS is the reasoning engine.
 
 ---
 
+# Author
+
+AWGS Kernel was created and is actively developed by **Luis Felipe Martinez Bastidas**, founder of **Kispat Dreams Interactive (KDI)**.
+
+The project originated from research on semantic reasoning, identity evolution, metadata intelligence, and ontology-driven autonomous systems.
+
+Its long-term vision is to provide an open cognitive kernel capable of powering enterprise AI, knowledge systems, and autonomous agents independently of any specific Large Language Model (LLM).
+
 # License
 This project is licensed under the Apache License 2.0.
 
