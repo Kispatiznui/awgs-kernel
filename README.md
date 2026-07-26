@@ -111,5 +111,6 @@ AWGS is the reasoning engine.
 ---
 
 # License
+This project is licensed under the Apache License 2.0.
 
-Apache 2.0
+© 2026 Luis Felipe Martinez Bastidas. All rights reserved.
